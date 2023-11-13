@@ -2,7 +2,7 @@
   display: flex;
   margin: 0 auto;
   flex-direction: column;
-  padding: 10px;
+  padding: 20px 15px;
   width: 320px;
 }
 .sidebar__header {
@@ -37,6 +37,7 @@
   letter-spacing: 0.03em;
   text-align: left;
   border: 1px solid #c4c4c4;
+  border-radius: 5px;
   outline: none;
 }
 .sidebar__date_picker input[type="date"]:focus {

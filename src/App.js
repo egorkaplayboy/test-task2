@@ -6,10 +6,11 @@ function App() {
       <nav className="header">Header</nav>
       <main className="container">
         <Sidebar />
-        <div className="content">Content</div>
+        
       </main>
     </div>
   );
 }
+
 
 export default App;
